@@ -24,6 +24,7 @@ function myFunction() {
 **Output:** test.docx
 
 
+
 ### /* Regular expression to extract file name from URL in SharePoint */
 
 #### ** In Nintex Workflows **
@@ -49,7 +50,8 @@ function myFunction() {
 **Output:** test.docx
 
 
-#### /* Regular expression to remove file extension form file name */
+
+### /* Regular expression to remove file extension form file name */
 
 #### ** In Nintex Workflows **
 
