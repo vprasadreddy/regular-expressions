@@ -1,6 +1,6 @@
 ### /* Regular expression to extract file name from URL in SharePoint */
 
-**1.In Nintex Workflows **
+**1.In Nintex Workflows**
 
 **Pattern:** ^(.*[\\\/])
 
@@ -27,7 +27,8 @@ function myFunction() {
 
 ### /* Regular expression to extract file name from URL in SharePoint */
 
-**1.In Nintex Workflows **
+**1.In Nintex Workflows**
+
 **Pattern:** ^.*[\\\/]
 
 **Replacement text**  : leave it blank/empty
