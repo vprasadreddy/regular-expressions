@@ -25,7 +25,7 @@ function myFunction() {
 
 
 
-### /* Regular expression to extract file name from URL in SharePoint */
+### Regular expression to extract file name from URL in SharePoint
 
 #### 1. In Nintex Workflows
 
