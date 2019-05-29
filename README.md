@@ -2,17 +2,17 @@
 
 #### 1. In Nintex Workflows
 
-**Pattern:** ^(.*[\\\/])
+**Pattern:** `^(.*[\\\/])`
 
 **Replacement text:** leave it blank/empty
 
-**Input:** https://www.sharepoint/abc/test.docx
+**Input:** `https://www.sharepoint/abc/test.docx`
 
 **Output:** test.docx
 
 #### 2. In Javascript
 
-**Pattern:** /^(.*[\\\/])/
+**Pattern:** `/^(.*[\\\/])/`
 
 ```javascript
 function myFunction() {
@@ -29,17 +29,17 @@ function myFunction() {
 
 #### 1. In Nintex Workflows
 
-**Pattern:** ^.*[\\\/]
+**Pattern:** `^.*[\\\/]`
 
 **Replacement text**  : leave it blank/empty
 
-**Input:** https://www.sharepoint/abc/test.docx
+**Input:** `https://www.sharepoint/abc/test.docx`
 
 **Output:** test.docx
 
 #### 2. In Javascript
 
-**Pattern:** /^.*[\\\/]/
+**Pattern:** `/^.*[\\\/]/`
 
 ```javascript
 function myFunction() {
@@ -57,18 +57,18 @@ function myFunction() {
 
 #### 1. In Nintex Workflows
 
-**Pattern:** \.[^/.]+$
+**Pattern:** `\.[^/.]+$`
 
 **Replacement text:** leave it blank/empty
 
-**Input:** testdoc.aspx
+**Input:** `testdoc.aspx`
 
 **Output:** testdoc
 
 
 #### 2. In Javascript
 
-**Pattern:** /\.[^/.]+$/g
+**Pattern:** `/\.[^/.]+$/g`
 
 ```javascript
 function myFunction() {
