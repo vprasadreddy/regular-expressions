@@ -1,6 +1,6 @@
 ### /* Regular expression to extract file name from URL in SharePoint */
 
-#### ** In Nintex Workflows **
+**1.In Nintex Workflows **
 
 **Pattern:** ^(.*[\\\/])
 
@@ -10,7 +10,7 @@
 
 **Output:** testdoc
 
-#### ** In Javascript **
+**2.In Javascript **
 
 **Pattern:** /^(.*[\\\/])/
 
@@ -27,7 +27,7 @@ function myFunction() {
 
 ### /* Regular expression to extract file name from URL in SharePoint */
 
-#### ** In Nintex Workflows **
+**1.In Nintex Workflows **
 **Pattern:** ^.*[\\\/]
 
 **Replacement text**  : leave it blank/empty
@@ -36,7 +36,7 @@ function myFunction() {
 
 **Output:** testdoc
 
-##### ** In Javascript **
+**2.In Javascript **
 
 **Pattern:** /^.*[\\\/]/
 
@@ -53,7 +53,7 @@ function myFunction() {
 
 ### /* Regular expression to remove file extension form file name */
 
-#### ** In Nintex Workflows **
+**1.In Nintex Workflows **
 
 **Pattern:** \.[^/.]+$
 
@@ -64,7 +64,7 @@ function myFunction() {
 **Output:** testdoc
 
 
-#### ** In Javascript **
+**2.In Javascript **
 
 **Pattern:** /\.[^/.]+$/g
 
