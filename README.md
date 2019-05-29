@@ -3,7 +3,7 @@
 ##### ** In Nintex Workflows **
 Pattern: ^(.*[\\\/])
 
-Replacement text  : levae it blank/empty
+Replacement text  : leave it blank/empty
 
 Input: testdoc.aspx
 
@@ -27,7 +27,7 @@ Output: test.docx
 ##### ** In Nintex Workflows **
 Pattern: ^.*[\\\/]
 
-Replacement text  : levae it blank/empty
+Replacement text  : leave it blank/empty
 
 Input: testdoc.aspx
 
@@ -51,7 +51,7 @@ Output: test.docx
 ##### ** In Nintex Workflows **
 Pattern: \.[^/.]+$
 
-Replacement text  : levae it blank/empty
+Replacement text  : leave it blank/empty
 
 Input: testdoc.aspx
 
