@@ -8,7 +8,7 @@
 
 **Input:** https://www.sharepoint/abc/test.docx
 
-**Output:** testdoc
+**Output:** test.docx
 
 #### 2. In Javascript
 
@@ -33,9 +33,9 @@ function myFunction() {
 
 **Replacement text**  : leave it blank/empty
 
-**Input:** testdoc.aspx
+**Input:** https://www.sharepoint/abc/test.docx
 
-**Output:** testdoc
+**Output:** test.docx
 
 #### 2. In Javascript
 
