@@ -6,7 +6,7 @@
 
 **Replacement text:** leave it blank/empty
 
-**Input:** testdoc.aspx
+**Input:** https://www.sharepoint/abc/test.docx
 
 **Output:** testdoc
 
