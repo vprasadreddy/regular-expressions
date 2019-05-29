@@ -9,7 +9,7 @@ Input: testdoc.aspx
 
 Output: testdoc
 
-##### ** In Javscript **
+##### ** In Javascript **
 Pattern: /^(.*[\\\/])/
 
 ```javascript
@@ -33,7 +33,7 @@ Input: testdoc.aspx
 
 Output: testdoc
 
-##### ** In Javscript **
+##### ** In Javascript **
 Pattern: /^.*[\\\/]/
 
 ```javascript
@@ -58,7 +58,7 @@ Input: testdoc.aspx
 Output: testdoc
 
 
-##### ** In Javscript **
+##### ** In Javascript **
 Pattern: /\.[^/.]+$/g
 
 ```javascript
