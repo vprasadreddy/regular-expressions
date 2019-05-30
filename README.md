@@ -1,3 +1,10 @@
+## Online regex testers
+https://regex101.com/
+
+https://www.regextester.com/
+
+https://regexr.com/
+
 ### Regular expression to extract file name from URL in SharePoint
 
 #### 1. In Nintex Workflows
