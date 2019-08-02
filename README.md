@@ -95,4 +95,4 @@ function myFunction() {
 
 **Valid matches:** 0.7, -0.4, 1, 2, 5.0
 
-**Invalid matches:** ., 0., 7.
+**Invalid matches:** ., 0., 7., _, +
