@@ -85,3 +85,13 @@ function myFunction() {
 }
 ```
 **Output:** testdoc
+
+
+### Regular expression to accept Integer, decimal & float numbers
+
+#### 1. In Javascript
+
+**Pattern:** `^[-+]?[0-9]*\.?[0-9]+$`
+
+## Valids matches: 0.7, -0.4, 1, 2, 5.0
+## Invalid matches: ., 0., 7.
