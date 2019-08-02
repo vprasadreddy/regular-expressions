@@ -93,5 +93,6 @@ function myFunction() {
 
 **Pattern:** `^[-+]?[0-9]*\.?[0-9]+$`
 
-## Valids matches: 0.7, -0.4, 1, 2, 5.0
-## Invalid matches: ., 0., 7.
+**Valid matches:** 0.7, -0.4, 1, 2, 5.0
+
+**Invalid matches:** ., 0., 7.
