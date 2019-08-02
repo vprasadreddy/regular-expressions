@@ -91,7 +91,7 @@ function myFunction() {
 
 #### 1. In Javascript
 
-**Pattern:** `^[-+]?[0-9]*\.?[0-9]+$`
+**Pattern:** `/^[-+]?[0-9]*\.?[0-9]+$/g`
 
 **Valid matches:** 0.7, -0.4, 1, 2, 5.0
 
