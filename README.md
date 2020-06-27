@@ -60,7 +60,7 @@ function myFunction() {
 
 
 
-### Regular expression to remove file extension form file name
+### Regular expression to remove file extension from file name
 
 #### 1. In Nintex Workflows
 
